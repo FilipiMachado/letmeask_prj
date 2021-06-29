@@ -1,0 +1,28 @@
+
+
+export function NewRoom() {
+    return (
+        <div id="page-auth">
+            <aside>
+                <img src={illustrationImg} alt="Imagem Ilustrativa"></img>
+                <strong>Crie salas de Q&amp;A ao-vivo</strong>
+                <p>Tire as dúvidas de sua audiência em tempo-real</p>
+            </aside>
+            <main>
+                <div className="main-content">
+                    <img src={logoImg} alt="logo letmeask" />
+                    <button className="create-room">Crie sua sala com o Google
+                        <img src={googleIconImg} alt="logo do Google" />
+                    </button>
+                    <div className="separator">ou entre em uma sala</div>
+                    <form>
+                        <input type="text" placeholder="Digite o código da sala" />
+                        <Button type="submit">
+                            Entrar na sala
+                        </Button>
+                    </form>
+                </div>
+            </main>
+        </div>
+    );
+}
