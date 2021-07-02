@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+  <img alt="Letmeask" src="https://raw.githubusercontent.com/rocketseat-education/nlw-06-reactjs/d64687c482991f6796f56a335126cd658db7f53f/.github/logo.svg" width="160px">
 </p>
 
 <h1 align="center">
