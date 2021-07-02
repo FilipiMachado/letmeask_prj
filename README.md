@@ -105,7 +105,7 @@ Remember, you have to create a account on [Firebase](https://firebase.google.com
 
 Letmeask is perfect for content creators to use a Q&A room with other people, into a organized and democratic way. 
 
-This is a project developed under the **[Next Level Week Together](https://nextlevelweek.com/)**, presented on 20th to 27th, june, 2021.
+This is a project developed under the **[Next Level Week Together](https://nextlevelweek.com/)**, presented on 20th to 27th, June, 2021.
 
 ## 🔖 Layout
 
