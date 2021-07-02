@@ -58,7 +58,9 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-<br> TRADUZIR ABAIXO
+<br>
+
+<h2>EN</h2>
 
   <p align="center">
   <img alt="Letmeask" src="https://raw.githubusercontent.com/rocketseat-education/nlw-06-reactjs/d64687c482991f6796f56a335126cd658db7f53f/.github/logo.svg" width="160px">
