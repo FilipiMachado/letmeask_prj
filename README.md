@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
+    <img alt="Letmeask" src="https://raw.githubusercontent.com/rocketseat-education/nlw-06-reactjs/d64687c482991f6796f56a335126cd658db7f53f/.github/cover.svg" />
 </h1>
 
 <br>
