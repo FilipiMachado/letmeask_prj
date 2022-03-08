@@ -25,17 +25,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/FilipiMachado/letmeask_prj
+$ cd letmeask_prj
 ```
 
 Para iniciá-lo, siga os passos abaixo:
 ```bash
 # Instalar as dependências
-$ yarn
+$ npm install
 
 # Iniciar o projeto
-$ yarn start
+$ npm start
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
